@@ -3,4 +3,3 @@
 - 🌱 I’m currently learning Testing and some backend stuff
 - 📫 How to reach me, please don't !!!!
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devchandhana12&show_icons=true&theme=radical)
