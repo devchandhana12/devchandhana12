@@ -5,7 +5,7 @@
 
 ![devchandhana12's Stats](https://github-readme-stats.vercel.app/api?username=devchandhana12&theme=nightowl&show_icons=true&hide_border=true&count_private=true)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devchandhana12)](https://github.com/devchandhana12/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devchandhana12)](https://github.com/anuraghazra/github-readme-stats)
 
 ![devchandhana12's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devchandhana12&theme=nightowl&show_icons=true&hide_border=true&layout=compact)
 
