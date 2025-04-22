@@ -1,6 +1,9 @@
-- 👋 Hi, I’m Chethan
-- 👀 I’m interested in Coding, Gaming
-- 📫 How to reach me, please don't !!!!
+- 👋 Hi, I’m Chethan  
+- 👀 I’m interested in Coding, Gaming, and occasionally debugging my life  
+- 💻 I build things that sometimes even work  
+- ☕ Mostly powered by caffeine and chaotic energy  
+- 📫 How to reach me? Please don't 😎
+
 
 [![DevChandhana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12&theme=github-compact)](https://github.com/devchandhana12/github-readme-activity-graph)
 
