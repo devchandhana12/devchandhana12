@@ -12,4 +12,4 @@
 [![My Skills](https://skillicons.dev/icons?i=js,ts,react,androidstudio,html,css,redux,regex,tailwind,sass,bootstrap,babel,git,github,bitbucket,bun,d3,firebase,jest,vite,linux,nextjs,npm,yarn,postman,express,nodejs,mongodb,nestjs,py)](https://skillicons.dev)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devchandhana12&layout=donut-vertical)](https://github.com/devchandhana12/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devchandhana12)](https://github.com/devchandhana12/github-readme-stats)
