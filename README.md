@@ -9,7 +9,10 @@
 
 💀 Breaking bugs, bending logic, and building the future—one commit at a time. ⚔️🔥
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,react,androidstudio,html,css,redux,regex,tailwind,sass,bootstrap,babel,git,github,bitbucket,bun,d3,firebase,jest,vite,linux,nextjs,npm,yarn,postman,express,nodejs,mongodb,nestjs,py)](https://skillicons.dev)
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,androidstudio,html,css,redux,regex,tailwind,sass,bootstrap,babel,git,github,bitbucket,bun,d3,firebase,jest,vite,linux,nextjs,npm,yarn,postman,mongodb,py,fastapi" />
+  </a>
+</p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=devchandhana12&theme=shades-of-purple&border_radius=5&exclude_days=Sun&card_width=600&card_height=200)](https://git.io/streak-stats)
