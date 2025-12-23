@@ -1,6 +1,6 @@
 👋 Hi, I’m Chethan  
 👀 Coding, gaming, and pushing systems until they complain  
-💻 AI over UI these days
+💻 AI over UI these days   
 🧠 Powered by curiosity and an urge to solve hard problems  
 📫 How to reach me? If it’s interesting, I’ll find you 😎
 
