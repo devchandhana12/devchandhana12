@@ -1,7 +1,6 @@
 👋 Hi, I'm Chethan  
 🧠 AI over UI these days — because pixels are overrated, intelligence isn't  
 💻 Coding, gaming, and pushing systems until they beg for mercy  
-🌐 Portfolio: [chethan.space](https://chethan.space)  
 📧 chethan120397@gmail.com
 
 ---
