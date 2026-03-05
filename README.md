@@ -1,13 +1,12 @@
-👋 Hi, I’m Chethan  
-👀 Coding, gaming, and pushing systems until they complain  
-💻 AI over UI these days   
-🧠 Powered by curiosity and an urge to solve hard problems  
-📫 How to reach me? If it’s interesting, I’ll find you 😎
+👋 Hi, I'm Chethan  
+🧠 AI over UI these days — because pixels are overrated, intelligence isn't  
+💻 Coding, gaming, and pushing systems until they beg for mercy  
+🌐 Portfolio: [chethan.space](https://chethan.space)  
+📧 chethan120397@gmail.com
 
+---
 
-[![DevChandhana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12&theme=github-compact)](https://github.com/devchandhana12/github-readme-activity-graph)
-
-💀 Breaking bugs, bending logic, and building the future—one commit at a time. ⚔️🔥
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -15,4 +14,14 @@
   </a>
 </p>
 
+---
+
+## GitHub Activity
+
+[![DevChandhana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12&theme=github-compact)](https://github.com/devchandhana12/github-readme-activity-graph)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=devchandhana12&theme=shades-of-purple&border_radius=5&exclude_days=Sun&card_width=600&card_height=200)](https://git.io/streak-stats)
+
+---
+
+Breaking bugs, bending logic, and building the future—one commit at a time. ⚔️🔥
