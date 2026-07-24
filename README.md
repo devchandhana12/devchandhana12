@@ -21,9 +21,7 @@
    → Where AI meets quantum — that's where I'm headed
 
 📧 chethan120397@gmail.com
-
    — Let's build something that actually thinks.
----
 
 ## Tech Stack
 
