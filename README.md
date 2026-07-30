@@ -1,45 +1,167 @@
-👋 Hey, I'm Chethan — Software Engineer from Bangalore
-   6+ years of turning complex problems into elegant systems
+# Hi, I'm Chethan 👋
 
-🧠 I don't just write code — I engineer intelligence
-   From pixels to pipelines, from APIs to AI — I've shipped it all
+### Senior Software Engineer • Full-Stack Engineer • Machine Learning Explorer
 
-💭 How I operate:
-   → First principles over shortcuts
-   → Build it. Break it. Understand it completely.
-   → Not just what works — but why it works
-   → Intelligence over pixels. Always.
+[![Portfolio](https://img.shields.io/badge/Portfolio-chethan.space-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chethan.space)
+[![Email](https://img.shields.io/badge/Gmail-chethan120397-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethan120397@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 
-🔭 What drives me:
-   → Building AI systems that don't just perform — they think
-   → Going deep where others go wide
-   → Standing out isn't a goal — it's a byproduct of doing the work right
+---
 
-⚛️ The long game:
-   → Quantum Machine Learning — because classical computing
-      is just the beginning
-   → Where AI meets quantum — that's where I'm headed
+## About Me
 
-📧 chethan120397@gmail.com
-   — Let's build something that actually thinks.
+```python
+class Chethan:
+
+    def __init__(self):
+        self.role = "Senior Software Engineer"
+        self.location = "Bangalore, India 🇮🇳"
+
+        self.experience = "7+ Years"
+
+        self.builds = [
+            "Web Applications",
+            "Mobile Applications",
+            "Backend Services",
+            "AI-powered Products"
+        ]
+
+        self.languages = [
+            "JavaScript",
+            "TypeScript",
+            "Python"
+        ]
+
+        self.currently_learning = [
+            "Machine Learning",
+            "Deep Learning",
+            "PyTorch",
+            "MLOps"
+        ]
+
+        self.interests = [
+            "Machine Learning",
+            "AI Engineering",
+            "LLMs",
+            "AI Agents",
+            "Distributed AI",
+            "Optimization",
+            "Quantum Machine Learning"
+        ]
+
+    def current_mission(self):
+        return "Build intelligent systems that solve meaningful problems."
+
+    def life_motto(self):
+        return "Stay curious. Keep building."
+```
+
+---
+
+## Currently Exploring
+
+- Machine Learning
+- Deep Learning
+- AI Engineering
+- AI Agents
+- LLM Applications
+- Retrieval-Augmented Generation (RAG)
+- MLOps
+- Model Optimization
+- Distributed AI Systems
+- Quantum Machine Learning
+
+---
+
+## Featured Work
+
+🚧 Things you'll mostly find here:
+
+- Applied Machine Learning
+- AI Engineering
+- Full-Stack Applications
+- Open Source
+- Experiments
+- Learning Projects
+- Research Notes
+
+---
 
 ## Tech Stack
 
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=py,js,ts,html,css)](https://skillicons.dev)
+
+### Frontend
+
+[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,vite)](https://skillicons.dev)
+
+### Backend
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,firebase)](https://skillicons.dev)
+
+### AI / ML
+
+[![AI](https://skillicons.dev/icons?i=python,pytorch,sklearn)](https://skillicons.dev)
+
+### Tools
+
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,postman,bun,npm,yarn)](https://skillicons.dev)
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,androidstudio,html,css,styledcomponents,redux,tailwind,sass,bootstrap,git,github,bitbucket,bun,d3,firebase,jest,vite,linux,npm,yarn,postman,py,fastapi,postgres,pycharm,sklearn,pytorch" />
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devchandhana12&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchandhana12&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=devchandhana12&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-## GitHub Activity
+## Activity Graph
 
-[![DevChandhana's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12&theme=github-compact)](https://github.com/devchandhana12/github-readme-activity-graph)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=devchandhana12&theme=shades-of-purple&border_radius=5&exclude_days=Sun&card_width=600&card_height=200)](https://git.io/streak-stats)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12&theme=tokyo-night&hide_border=true)](https://github.com/devchandhana12)
 
 ---
 
-Breaking bugs, bending logic, and building the future — one commit at a time. ⚔️🔥
-   — And yes, that future involves quantum. 👀
+## Current Journey
+
+```text
+Software Engineering
+        │
+        ▼
+Applied Machine Learning
+        │
+        ▼
+Deep Learning
+        │
+        ▼
+AI Systems
+        │
+        ▼
+Research
+        │
+        ▼
+Quantum Machine Learning
+```
+
+---
+
+## Connect
+
+📧 **chethan120397@gmail.com**
+
+🌐 **https://chethan.space**
+
+> *Learning in public. Building in public.*
