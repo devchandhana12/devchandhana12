@@ -4,7 +4,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-chethan.space-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chethan.space)
 [![Email](https://img.shields.io/badge/Gmail-chethan120397-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethan120397@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-nandigala-936897232/)
 
 ---
 
@@ -111,23 +111,6 @@ class Chethan:
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devchandhana12&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchandhana12&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=devchandhana12&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
 
 ## Activity Graph
 
