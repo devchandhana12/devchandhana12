@@ -17,7 +17,7 @@ class Chethan:
         self.role = "Senior Software Engineer"
         self.location = "Bangalore, India 🇮🇳"
 
-        self.experience = "7+ Years"
+        self.experience = "6+ Years"
 
         self.builds = [
             "Web Applications",
