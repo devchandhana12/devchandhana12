@@ -1,10 +1,10 @@
 # Hi, I'm Chethan 👋
 
-### Senior Software Engineer • Full-Stack Engineer • Machine Learning Explorer
+### Senior Software Engineer • Data Science • Machine Learning • Applied AI
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chethan.space-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chethan.space)
-[![Email](https://img.shields.io/badge/Gmail-chethan120397-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethan120397@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-nandigala-936897232/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chethan.space-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://chethan.space)
+[![Email](https://img.shields.io/badge/Gmail-chethan120397-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chethan120397@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chethan-nandigala-936897232/)
 
 ---
 
@@ -16,74 +16,61 @@ class Chethan:
     def __init__(self):
         self.role = "Senior Software Engineer"
         self.location = "Bangalore, India 🇮🇳"
-
         self.experience = "6+ Years"
 
-        self.builds = [
+        self.engineering = [
             "Web Applications",
             "Mobile Applications",
             "Backend Services",
             "AI-powered Products"
         ]
 
-        self.languages = [
-            "JavaScript",
-            "TypeScript",
-            "Python"
+        self.focus = [
+            "Data Science",
+            "Machine Learning",
+            "Applied AI"
         ]
 
-        self.currently_learning = [
-            "Machine Learning",
+        self.ai_ml = [
+            "Data Preprocessing",
+            "Model Development",
             "Deep Learning",
-            "PyTorch",
-            "MLOps"
+            "LLMs",
+            "RAG",
+            "AI Agents"
         ]
 
-        self.interests = [
-            "Machine Learning",
-            "AI Engineering",
-            "LLMs",
-            "AI Agents",
-            "Distributed AI",
-            "Optimization",
-            "Quantum Machine Learning"
+        self.languages = [
+            "Python",
+            "TypeScript",
+            "JavaScript"
         ]
 
     def current_mission(self):
-        return "Build intelligent systems that solve meaningful problems."
+        return "Build intelligent systems backed by strong engineering and data."
 
-    def life_motto(self):
-        return "Stay curious. Keep building."
+    def long_term_goal(self):
+        return "ML Research and Quantum Machine Learning"
 ```
 
 ---
 
-## Currently Exploring
+## Focus
 
-- Machine Learning
-- Deep Learning
-- AI Engineering
-- AI Agents
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- MLOps
-- Model Optimization
-- Distributed AI Systems
-- Quantum Machine Learning
+* Data Science & Data Preprocessing
+* Machine Learning
+* Deep Learning
+* LLMs & RAG
+* AI Agents
+* AI / ML Engineering
 
 ---
 
-## Featured Work
+## Building Toward
 
-🚧 Things you'll mostly find here:
+Combining **6+ years of software engineering** with **Data Science, Machine Learning, and Applied AI** to build production-ready intelligent systems.
 
-- Applied Machine Learning
-- AI Engineering
-- Full-Stack Applications
-- Open Source
-- Experiments
-- Learning Projects
-- Research Notes
+Long term, I'm interested in **ML systems, research, optimization, and Quantum Machine Learning**.
 
 ---
 
@@ -111,10 +98,9 @@ class Chethan:
 
 ---
 
-
 ## Activity Graph
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12&theme=tokyo-night&hide_border=true)](https://github.com/devchandhana12)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12\&theme=tokyo-night\&hide_border=true)](https://github.com/devchandhana12)
 
 ---
 
@@ -124,27 +110,29 @@ class Chethan:
 Software Engineering
         │
         ▼
-Applied Machine Learning
+Data Science
+        │
+        ▼
+Machine Learning
+        │
+        ├──────────────► Applied AI
         │
         ▼
 Deep Learning
         │
         ▼
-AI Systems
+AI / ML Systems
         │
         ▼
 Research
-        │
-        ▼
-Quantum Machine Learning
 ```
 
 ---
 
 ## Connect
 
-📧 **chethan120397@gmail.com**
+📧 **[chethan120397@gmail.com](mailto:chethan120397@gmail.com)**
 
 🌐 **https://chethan.space**
 
-> *Learning in public. Building in public.*
+> **From pixels to pipelines, from APIs to AI.**
