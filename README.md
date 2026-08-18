@@ -84,17 +84,25 @@ Long term, I'm interested in **ML systems, research, optimization, and Quantum M
 
 [![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,vite)](https://skillicons.dev)
 
-### Backend
+### Backend & Databases
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,firebase)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,firebase,redis)](https://skillicons.dev)
 
 ### AI / ML
 
-[![AI](https://skillicons.dev/icons?i=python,pytorch,sklearn)](https://skillicons.dev)
+[![AI/ML](https://skillicons.dev/icons?i=py,pytorch,sklearn)](https://skillicons.dev)
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square\&logo=huggingface\&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square\&logo=langchain\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square\&logo=langgraph\&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat-square\&logo=qdrant\&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square)
 
 ### Tools
 
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,postman,bun,npm,yarn)](https://skillicons.dev)
+
 
 ---
 
