@@ -2,7 +2,7 @@
 
 ### Senior Software Engineer • Data Science • Machine Learning • Applied AI
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chethan.space-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://chethan.space)
+[![Portfolio](https://img.shields.io/badge/Portfolio-chethan.space-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://www.dev-chethan.com/)
 [![Email](https://img.shields.io/badge/Gmail-chethan120397-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chethan120397@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chethan-nandigala-936897232/)
 
