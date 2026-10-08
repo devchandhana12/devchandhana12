@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=Hi%2C%20I'm%20Chethan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=From%20pixels%20to%20pipelines%2C%20from%20APIs%20to%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/devchandhana12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%E2%80%A2+6%2B+years;Building+intelligent+systems+with+LLMs+%26+RAG;Moving+from+Full-Stack+%E2%86%92+AI%2FML+Engineering;Long+term%3A+ML+Research+%26+Quantum+ML" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%E2%80%A2+6%2B+years;Building+a+Transformer+from+scratch;Moving+from+Full-Stack+%E2%86%92+AI%2FML+Engineering;Long+term%3A+ML+Research+%26+Quantum+ML" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -75,6 +75,30 @@ class Chethan:
 
 <br/>
 
+<!-- ═══════════════ CURRENTLY BUILDING ═══════════════ -->
+## 🔭 Currently Building
+
+<div align="center">
+
+### 🧩 Mini Transformer, from scratch
+*Understanding attention by implementing it, not just importing it.*
+
+`Python` `PyTorch` `Attention` `Transformers`
+
+</div>
+
+**Roadmap** &nbsp;·&nbsp; 🚧 *in progress*
+
+- [ ] Tokenizer and embeddings
+- [ ] Scaled dot-product & multi-head self-attention
+- [ ] Transformer block (layer norm, residuals, feed-forward)
+- [ ] Training loop on a small text dataset
+- [ ] Text generation + write-up of what I learned
+
+> 📝 I'll tick these off and link the repo here as I go.
+
+<br/>
+
 <!-- ═══════════════ TECH STACK ═══════════════ -->
 ## 🛠️ Tech Stack
 
@@ -86,14 +110,8 @@ class Chethan:
 | **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,vite" /> |
 | **⚙️ Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,firebase,redis" /> |
 | **🧪 AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn" /> |
+| **🧠 LLM Tooling** | Hugging Face · LangChain · LangGraph · Qdrant · Pinecone · ChromaDB |
 | **🧰 Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,bun,npm,yarn" /> |
-
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
-<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
-<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
-<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" />
 
 </div>
 
@@ -120,22 +138,6 @@ flowchart LR
     style F fill:#4c1d95,stroke:#C4B5FD,color:#fff
     style G fill:#7C3AED,stroke:#fff,color:#fff
 ```
-
-<br/>
-
-<!-- ═══════════════ STATS ═══════════════ -->
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=devchandhana12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0:0f0c29" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchandhana12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-<img src="https://streak-stats.demolab.com?user=devchandhana12&theme=tokyonight&hide_border=true" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
 
 <br/>
 
