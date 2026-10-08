@@ -1,146 +1,159 @@
-# Hi, I'm Chethan 👋
+<!-- ═══════════════ HEADER ═══════════════ -->
+<div align="center">
 
-### Senior Software Engineer • Data Science • Machine Learning • Applied AI
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=Hi%2C%20I'm%20Chethan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=From%20pixels%20to%20pipelines%2C%20from%20APIs%20to%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chethan.space-000000?style=for-the-badge\&logo=google-chrome\&logoColor=white)](https://www.dev-chethan.com/)
-[![Email](https://img.shields.io/badge/Gmail-chethan120397-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:chethan120397@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Chethan-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/chethan-nandigala-936897232/)
+<a href="https://github.com/devchandhana12">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%E2%80%A2+6%2B+years;Building+intelligent+systems+with+LLMs+%26+RAG;Moving+from+Full-Stack+%E2%86%92+AI%2FML+Engineering;Long+term%3A+ML+Research+%26+Quantum+ML" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-## About Me
+[![Portfolio](https://img.shields.io/badge/Portfolio-chethan.space-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chethan.space)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-nandigala-936897232/)
+[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethan120397@gmail.com)
+
+<img src="https://komarev.com/ghpvc/?username=devchandhana12&label=Profile%20views&color=7C3AED&style=flat-square" alt="views" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ ABOUT ═══════════════ -->
+## ✨ About Me
+
+I'm a **Senior Software Engineer in Bangalore 🇮🇳** with **6+ years** of shipping web, mobile and backend products, now channeling that engineering depth into **Data Science, Machine Learning and Applied AI**.
+
+My belief: *great AI is 20% model, 80% engineering.* I like building the whole thing, from the data pipeline to the pixel on the screen.
 
 ```python
 class Chethan:
+    role        = "Senior Software Engineer"
+    based_in    = "Bangalore, India 🇮🇳"
+    experience  = "6+ years"
 
-    def __init__(self):
-        self.role = "Senior Software Engineer"
-        self.location = "Bangalore, India 🇮🇳"
-        self.experience = "6+ Years"
-
-        self.engineering = [
-            "Web Applications",
-            "Mobile Applications",
-            "Backend Services",
-            "AI-powered Products"
-        ]
-
-        self.focus = [
-            "Data Science",
-            "Machine Learning",
-            "Applied AI"
-        ]
-
-        self.ai_ml = [
-            "Data Preprocessing",
-            "Model Development",
-            "Deep Learning",
-            "LLMs",
-            "RAG",
-            "AI Agents"
-        ]
-
-        self.languages = [
-            "Python",
-            "TypeScript",
-            "JavaScript"
-        ]
+    builds      = ["Web apps", "Mobile apps", "Backend services", "AI-powered products"]
+    exploring   = ["Deep Learning", "LLMs", "RAG", "AI Agents"]
+    languages   = ["Python", "TypeScript", "JavaScript"]
 
     def current_mission(self):
         return "Build intelligent systems backed by strong engineering and data."
 
     def long_term_goal(self):
-        return "ML Research and Quantum Machine Learning"
+        return "ML Research → Quantum Machine Learning"
 ```
 
----
+<br/>
 
-## Focus
+<!-- ═══════════════ FOCUS CARDS ═══════════════ -->
+## 🎯 What I'm Focused On
 
-* Data Science & Data Preprocessing
-* Machine Learning
-* Deep Learning
-* LLMs & RAG
-* AI Agents
-* AI / ML Engineering
+<table align="center">
+  <tr>
+    <td align="center" width="25%">
+      <h3>📊</h3>
+      <b>Data Science</b><br/>
+      <sub>Preprocessing, EDA &<br/>feature engineering</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🧠</h3>
+      <b>Machine & Deep Learning</b><br/>
+      <sub>Model development<br/>with PyTorch & scikit-learn</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>📚</h3>
+      <b>LLMs & RAG</b><br/>
+      <sub>Retrieval pipelines &<br/>vector search</sub>
+    </td>
+    <td align="center" width="25%">
+      <h3>🤖</h3>
+      <b>AI Agents</b><br/>
+      <sub>Tool-using, multi-step<br/>agentic workflows</sub>
+    </td>
+  </tr>
+</table>
 
----
+<br/>
 
-## Building Toward
+<!-- ═══════════════ TECH STACK ═══════════════ -->
+## 🛠️ Tech Stack
 
-Combining **6+ years of software engineering** with **Data Science, Machine Learning, and Applied AI** to build production-ready intelligent systems.
+<div align="center">
 
-Long term, I'm interested in **ML systems, research, optimization, and Quantum Machine Learning**.
+| | |
+|:--|:--|
+| **🐍 Languages** | <img src="https://skillicons.dev/icons?i=py,ts,js,html,css" /> |
+| **🎨 Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,vite" /> |
+| **⚙️ Backend & Data** | <img src="https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,firebase,redis" /> |
+| **🧪 AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,sklearn" /> |
+| **🧰 Tools** | <img src="https://skillicons.dev/icons?i=git,github,linux,docker,postman,bun,npm,yarn" /> |
 
----
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langgraph&logoColor=white" />
+<img src="https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-FF6446?style=for-the-badge" />
 
-## Tech Stack
+</div>
 
-### Languages
+<br/>
 
-[![Languages](https://skillicons.dev/icons?i=py,js,ts,html,css)](https://skillicons.dev)
+<!-- ═══════════════ JOURNEY ═══════════════ -->
+## 🧭 The Journey
 
-### Frontend
+```mermaid
+flowchart LR
+    A([💻 Software<br/>Engineering]) --> B([📊 Data<br/>Science])
+    B --> C([🧠 Machine<br/>Learning])
+    C --> D([🕸️ Deep<br/>Learning])
+    C --> E([🚀 Applied<br/>AI])
+    D --> F([⚙️ AI/ML<br/>Systems])
+    E --> F
+    F --> G([🔬 Research &<br/>Quantum ML])
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,redux,tailwind,sass,bootstrap,vite)](https://skillicons.dev)
-
-### Backend & Databases
-
-[![Backend](https://skillicons.dev/icons?i=nodejs,fastapi,postgres,mongodb,firebase,redis)](https://skillicons.dev)
-
-### AI / ML
-
-[![AI/ML](https://skillicons.dev/icons?i=py,pytorch,sklearn)](https://skillicons.dev)
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-000000?style=flat-square\&logo=huggingface\&logoColor=FFD21E)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat-square\&logo=langchain\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-000000?style=flat-square\&logo=langgraph\&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-000000?style=flat-square\&logo=qdrant\&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-000000?style=flat-square)
-
-### Tools
-
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,postman,bun,npm,yarn)](https://skillicons.dev)
-
-
----
-
-## Activity Graph
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12\&theme=tokyo-night\&hide_border=true)](https://github.com/devchandhana12)
-
----
-
-## Current Journey
-
-```text
-Software Engineering
-        │
-        ▼
-Data Science
-        │
-        ▼
-Machine Learning
-        │
-        ├──────────────► Applied AI
-        │
-        ▼
-Deep Learning
-        │
-        ▼
-AI / ML Systems
-        │
-        ▼
-Research
+    style A fill:#1e1b4b,stroke:#7C3AED,color:#fff
+    style B fill:#1e1b4b,stroke:#7C3AED,color:#fff
+    style C fill:#312e81,stroke:#A78BFA,color:#fff
+    style D fill:#312e81,stroke:#A78BFA,color:#fff
+    style E fill:#312e81,stroke:#A78BFA,color:#fff
+    style F fill:#4c1d95,stroke:#C4B5FD,color:#fff
+    style G fill:#7C3AED,stroke:#fff,color:#fff
 ```
 
----
+<br/>
 
-## Connect
+<!-- ═══════════════ STATS ═══════════════ -->
+## 📈 GitHub Stats
 
-📧 **[chethan120397@gmail.com](mailto:chethan120397@gmail.com)**
+<div align="center">
 
-🌐 **https://chethan.space**
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devchandhana12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0:0f0c29" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devchandhana12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-> **From pixels to pipelines, from APIs to AI.**
+<img src="https://streak-stats.demolab.com?user=devchandhana12&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devchandhana12&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════ CONNECT ═══════════════ -->
+## 🤝 Let's Connect
+
+I'm always up for conversations about **AI products, RAG systems, agents, and ML engineering**, or just good engineering in general.
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/🌐%20chethan.space-1e1b4b?style=for-the-badge)](https://chethan.space)
+[![Email](https://img.shields.io/badge/📧%20chethan120397@gmail.com-1e1b4b?style=for-the-badge)](mailto:chethan120397@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-1e1b4b?style=for-the-badge)](https://www.linkedin.com/in/chethan-nandigala-936897232/)
+
+<br/>
+
+> ### *From pixels to pipelines, from APIs to AI.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer" width="100%" alt="footer" />
+
+</div>
