@@ -9,7 +9,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-chethan.space-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chethan.space)
+[![Portfolio](https://img.shields.io/badge/Portfolio-dev--chethan.com-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white)](https://dev-chethan.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chethan-nandigala-936897232/)
 [![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chethan120397@gmail.com)
 
@@ -148,7 +148,7 @@ I'm always up for conversations about **AI products, RAG systems, agents, and ML
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20chethan.space-1e1b4b?style=for-the-badge)](https://chethan.space)
+[![Portfolio](https://img.shields.io/badge/🌐%20dev--chethan.com-1e1b4b?style=for-the-badge)](https://dev-chethan.com)
 [![Email](https://img.shields.io/badge/📧%20chethan120397@gmail.com-1e1b4b?style=for-the-badge)](mailto:chethan120397@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-1e1b4b?style=for-the-badge)](https://www.linkedin.com/in/chethan-nandigala-936897232/)
 
