@@ -122,21 +122,23 @@ class Chethan:
 
 ```mermaid
 flowchart LR
-    A([💻 Software<br/>Engineering]) --> B([📊 Data<br/>Science])
-    B --> C([🧠 Machine<br/>Learning])
-    C --> D([🕸️ Deep<br/>Learning])
-    C --> E([🚀 Applied<br/>AI])
-    D --> F([⚙️ AI/ML<br/>Systems])
+    A(["💻 Software<br/>Engineering"]) --> B(["📊 Data<br/>Science"])
+    B --> C(["🧠 Machine<br/>Learning"])
+    C --> D(["🕸️ Deep<br/>Learning"])
+    C --> E(["🚀 Applied<br/>AI"])
+    D --> F(["⚙️ AI/ML<br/>Systems"])
     E --> F
-    F --> G([🔬 Research &<br/>Quantum ML])
+    F --> G(["🔬 Research and<br/>Quantum ML"])
 
-    style A fill:#1e1b4b,stroke:#7C3AED,color:#fff
-    style B fill:#1e1b4b,stroke:#7C3AED,color:#fff
-    style C fill:#312e81,stroke:#A78BFA,color:#fff
-    style D fill:#312e81,stroke:#A78BFA,color:#fff
-    style E fill:#312e81,stroke:#A78BFA,color:#fff
-    style F fill:#4c1d95,stroke:#C4B5FD,color:#fff
-    style G fill:#7C3AED,stroke:#fff,color:#fff
+    classDef base fill:#1e1b4b,stroke:#7C3AED,color:#ffffff
+    classDef mid fill:#312e81,stroke:#A78BFA,color:#ffffff
+    classDef top fill:#4c1d95,stroke:#C4B5FD,color:#ffffff
+    classDef goal fill:#7C3AED,stroke:#ffffff,color:#ffffff
+
+    class A,B base
+    class C,D,E mid
+    class F top
+    class G goal
 ```
 
 <br/>
