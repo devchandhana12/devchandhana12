@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=Hi%2C%20I'm%20Chethan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=From%20pixels%20to%20pipelines%2C%20from%20APIs%20to%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0f0c29,50:302b63,100:24243e&text=Hi%2C%20I'm%20Chethan&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Engineering%20software%20that%20learns&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="header" />
 
 <a href="https://github.com/devchandhana12">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=Senior+Software+Engineer+%E2%80%A2+6%2B+years;Building+a+Transformer+from+scratch;Moving+from+Full-Stack+%E2%86%92+AI%2FML+Engineering;Long+term%3A+ML+Research+%26+Quantum+ML" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 
 I'm a **Senior Software Engineer in Bangalore 🇮🇳** with **6+ years** of shipping web, mobile and backend products, now channeling that engineering depth into **Data Science, Machine Learning and Applied AI**.
 
-My belief: *great AI is 20% model, 80% engineering.* I like building the whole thing, from the data pipeline to the pixel on the screen.
+My belief: *great AI is 20% model, 80% engineering.* I like building the whole thing, from the data layer to the interface people actually use.
 
 ```python
 class Chethan:
@@ -154,7 +154,7 @@ I'm always up for conversations about **AI products, RAG systems, agents, and ML
 
 <br/>
 
-> ### *From pixels to pipelines, from APIs to AI.*
+> ### *Build it right. Then make it intelligent.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:24243e,50:302b63,100:0f0c29&section=footer" width="100%" alt="footer" />
 
